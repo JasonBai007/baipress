@@ -1,0 +1,26 @@
+{
+  "name": "baipress",
+  "version": "1.0.0",
+  "description": "my page with vuepresss",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonBai007/baipress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasonBai007/baipress/issues"
+  },
+  "homepage": "https://github.com/JasonBai007/baipress#readme",
+  "devDependencies": {}
+}
