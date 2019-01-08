@@ -5,7 +5,7 @@ module.exports = {
     // 这里的/就是public目录的意思，
     ["link", { rel: "icon", href: "/img/favicon.ico" }]
   ],
-  base: "/",
+  base: "/baipress/",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
