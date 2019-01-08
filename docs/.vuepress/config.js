@@ -14,6 +14,7 @@ module.exports = {
       { text: "VuePress", link: "https://vuepress.vuejs.org/zh/" },
       { text: "Github", link: "https://github.com/JasonBai007" }
     ],
-    sidebar: [["/coding/", "不以规矩，不能成方圆"], ["/tools/", "善假于物也"], ["/philosophy/", "色即是空，空即是色"]]
+    sidebar: [["/coding/", "不以规矩，不能成方圆"], ["/tools/", "君子性非异也，善假于物也"], ["/philosophy/", "色即是空，空即是色"]],
+    lastUpdated: 'Last Updated',
   }
 };
