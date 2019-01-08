@@ -9,10 +9,11 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
+      { text: "Guides", items: [{ text: "coding", link: "/coding/" }, { text: "tools", link: "/tools/" }, { text: "philosophy", link: "/philosophy/" }] },
       { text: "About", link: "http://luban7.top" },
       { text: "VuePress", link: "https://vuepress.vuejs.org/zh/" },
       { text: "Github", link: "https://github.com/JasonBai007" }
     ],
-    sidebar: ["/", "/page-a/"]
+    sidebar: [["/coding/", "不以规矩，不能成方圆"], ["/tools/", "善假于物也"], ["/philosophy/", "色即是空，空即是色"]]
   }
 };
