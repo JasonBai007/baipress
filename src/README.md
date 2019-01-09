@@ -1,10 +1,10 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: 前端开发最佳实践
+heroText: 前端开发指南
 tagline: 天下难事必作于易，天下大事必作于细
 actionText: Get Started →
-actionLink: /coding/
+actionLink: /coding/js
 features:
 - title: 逻辑简单
   details: 编码逻辑尽可能的简单明了，这样既能规避一些潜在的逻辑问题，又降低了程序的后期维护成本。
