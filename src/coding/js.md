@@ -10,7 +10,7 @@
 
 ## 命名
 
-::: tip
+::: tip Source
 来自：[小玲同学的前端开发规范](http://n_123.coding.me/web_standard/web_standard/js.html)
 :::
 

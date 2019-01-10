@@ -9,7 +9,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "Guides", items: [{ text: "coding", link: "/coding/js" }, { text: "tools", link: "/tools/" }, { text: "philosophy", link: "/philosophy/" }] },
+      { text: "Guides", items: [{ text: "coding", link: "/coding/js" }, { text: "tools", link: "/tools/" }, { text: "flow", link: "/flow/" }, { text: "philosophy", link: "/philosophy/" }] },
       { text: "About", link: "http://lubanseven.gitee.io/luban7/" },
       { text: "VuePress", link: "https://vuepress.vuejs.org/zh/" },
       { text: "Github", link: "https://github.com/JasonBai007" }
@@ -23,6 +23,7 @@ module.exports = {
         ]
       },
       ["/tools/", "开发工具指导"],
+      ["/flow/", "开发流程介绍"],
       ["/philosophy/", "技术不是一切"]
     ],
     lastUpdated: "Last Updated"
