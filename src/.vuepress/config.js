@@ -10,7 +10,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Guides", items: [{ text: "coding", link: "/coding/js" }, { text: "tools", link: "/tools/" }, { text: "flow", link: "/flow/" }, { text: "philosophy", link: "/philosophy/" }] },
-      { text: "About", link: "http://lubanseven.gitee.io/luban7/" },
+      { text: "About", link: "https://lubanseven.gitee.io" },
       { text: "VuePress", link: "https://vuepress.vuejs.org/zh/" },
       { text: "Github", link: "https://github.com/JasonBai007" }
     ],
